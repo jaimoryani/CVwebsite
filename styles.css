@@ -1,0 +1,47 @@
+.container{
+    margin: 50px;
+    padding: 30px;
+    border-radius: 10px;
+    background-color: white;
+    align-content: center;
+    
+    
+}
+.contact{
+    display: inline;float: left;
+    width: 50%;
+}
+.message{
+    display: inline;float: left;
+    width: 50%;
+    padding-bottom: 50px;
+
+}
+#message{
+    vertical-align: middle;
+}
+table{
+    height: 150px;
+    width: 250px;
+}
+img{
+    height: 180px;
+    border-radius:50% ;
+    border-style:double;
+    border-color: blueviolet;
+    border-width: 5px;
+}
+ul{
+    text-align: center;
+    list-style-position: inside;
+}
+body{
+    background: linear-gradient(#8F00FF,#FF5E0E,#8F00FF,#FF5E0E);
+    background-size: 500px 500px;
+    text-align:center;
+    align-content: space-between;
+    font-family: 'Rajdhani',sans-serif;
+    font: size 1em;
+    
+
+}
